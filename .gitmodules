@@ -1,3 +1,6 @@
 [submodule "xl_mlp_nn"]
 	path = xl_mlp_nn
 	url = https://github.cs.huji.ac.il/dina-lab/xl_gnn_mlp.git
+[submodule "xl_parser"]
+	path = xl_parser
+	url = https://github.cs.huji.ac.il/dina-lab/xl_parser.git
