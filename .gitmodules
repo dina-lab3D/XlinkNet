@@ -1,6 +1,0 @@
-[submodule "xl_mlp_nn"]
-	path = xl_mlp_nn
-	url = https://github.com/seanco-hash/xl_mlp_nn.git
-[submodule "xl_parser"]
-	path = xl_parser
-	url = https://github.com/seanco-hash/xl_parser.git
