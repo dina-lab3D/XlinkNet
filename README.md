@@ -1,3 +1,7 @@
+This is git repo for XlinkNet.
+
+Crosslinks dataset in the file:
+crosslinks.csv
 
 - Change path inside the codes:
     1. in cross_link.py:
